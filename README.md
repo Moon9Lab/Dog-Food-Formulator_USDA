@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Nutrient Analysis Dashboard is a Streamlit application designed to provide an interactive exploration of nutrient content in various food items. The application allows users to select a nutrient of interest from a dropdown list and displays bar charts that rank the top 10 foods highest in that nutrient for each of four food categories:
+The Food Finder Dashboard is a Streamlit application designed to provide an interactive exploration of nutrient content in various food items. The application allows users to select a nutrient of interest from a dropdown list and displays bar charts that rank the top 10 foods highest in that nutrient for each of four food categories:
 
 - Vegetables and Vegetable Products
 - Legumes and Legume Products
