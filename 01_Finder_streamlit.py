@@ -4,10 +4,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data
-nutrient_df = pd.read_csv('nutrient.csv')
-food_df = pd.read_csv('food.csv')
-food_nutrient_df = pd.read_csv('food_nutrient.csv')
-food_category_df = pd.read_csv('food_category.csv')
+nutrient_df = pd.read_csv('Data/nutrient.csv')
+food_df = pd.read_csv('Data/food.csv')
+food_nutrient_df = pd.read_csv('Data/food_nutrient.csv')
+food_category_df = pd.read_csv('Data/food_category.csv')
 
 # Streamlit app
 st.title("Food Finder Dashboard")
