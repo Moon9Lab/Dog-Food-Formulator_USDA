@@ -1,4 +1,4 @@
-# Food Finder Dashboard
+# Dog Food Formulator
 
 ## Project Overview
 
