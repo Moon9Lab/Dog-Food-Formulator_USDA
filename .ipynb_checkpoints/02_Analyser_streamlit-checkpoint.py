@@ -3,9 +3,9 @@ import pandas as pd
 import ast
 
 # Load the data
-food_nutrient_df = pd.read_csv('Data/food_nutrient.csv')
 food_df = pd.read_csv('Data/food.csv')
 nutrient_df = pd.read_csv('Data/nutrient.csv')
+food_nutrient_df = pd.read_csv('Data/food_nutrient.csv')
 
 # Streamlit UI
 st.title("Nutrient Analysis Dashboard")
